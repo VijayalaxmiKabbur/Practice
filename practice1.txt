@@ -4,5 +4,6 @@ I am doing changes from git-hub..
 I am doing this changes via vi editor
 I am editing this for cloning purpose..
 I am now editing this to know about error message.
+I am in local repository.
 =======
 >>>>>>> 79af73f (commiting all)

@@ -3,5 +3,6 @@ I am doing changes from git-hub..
 <<<<<<< HEAD
 I am doing this changes via vi editor
 I am editing this for cloning purpose..
+I am now editing this to know about error message.
 =======
 >>>>>>> 79af73f (commiting all)
